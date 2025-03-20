@@ -2,8 +2,8 @@
 
 This is a web app developed using **React.js** ⚛️. It allows users to search for the **weather conditions** of any city in the world and provides real-time weather updates. The app fetches data from the **SheCodes Weather API** 🌐.  
 
-![Weather App Screenshot](https://github.com/s-shemmee/React-Weather-App/assets/56132945/a3aea312-a726-40c6-93bb-45261ecddcad)  
 
+![Image](https://github.com/user-attachments/assets/13bfbcdd-db2f-4a7c-8384-fc3de421219e)
 ---
 
 ## 🌟 Features  
